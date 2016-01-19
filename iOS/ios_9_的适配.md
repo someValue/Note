@@ -7,7 +7,7 @@
 	
 		2. 在 Info.plist 中 声明, 依然使用 HTTP.
 
-	![](https://github.com/someValue/Note/tree/master/iOS/src/依然使用HTTP.png)
+	![依然使用HTTP](https://github.com/someValue/Note/blob/master/iOS/src/依然使用HTTP.png)
 	
 		3. 还可以 针对 特定的 URL 不使用 ATS.	
 	[搜索ATS](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40016240)
